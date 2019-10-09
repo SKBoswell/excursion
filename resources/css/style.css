@@ -19,3 +19,7 @@ a .link {
     text-align: center; 
     text-decoration: underline;
 }
+
+video {
+    align-content: center
+}
