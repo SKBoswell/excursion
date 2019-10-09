@@ -36,3 +36,9 @@ div .description {
     font-size: 21px;
     color: grey;
 }
+
+footer {
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
