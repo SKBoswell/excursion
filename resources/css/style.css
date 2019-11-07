@@ -37,6 +37,10 @@ div .description {
     color: grey;
 }
 
+.landscape {
+    width: 100%;
+}
+
 footer {
     text-align: right;
     color: gray;
